@@ -4,7 +4,7 @@ To raise the project the steps are as follows:
 
 Clone the repository with the command:
 
-```git clone url```
+```git clone https://github.com/brayanz741/api-finobacci.git```
 
 Install the packages with the command:
 
